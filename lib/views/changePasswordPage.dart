@@ -47,10 +47,6 @@ class ChangePasswordPage extends StatelessWidget {
                 SizedBox(
                   height: 15.0,
                 ),
-                InputWidget("Old Password", true, Icon(Icons.password)),
-                SizedBox(
-                  height: 15.0,
-                ),
                 InputWidget("New Password", true, Icon(Icons.password)),
                 SizedBox(
                   height: 20.0,

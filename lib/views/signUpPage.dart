@@ -46,15 +46,6 @@ class SingUpPage extends StatelessWidget {
                 SizedBox(
                   height: 15.0,
                 ),
-                InputWidget(
-                    "Surname",
-                    false,
-                    Icon(
-                      Icons.person,
-                    )),
-                SizedBox(
-                  height: 15.0,
-                ),
                 InputWidget("Phone Number", false, Icon(Icons.phone)),
                 SizedBox(
                   height: 15.0,
